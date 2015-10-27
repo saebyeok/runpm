@@ -1,14 +1,18 @@
 
  ```runpm.js``` is a package manager to reuse ```node_modules ``` folders. 
 
-##Installation
+
+#Installation
+
 
 If you have the node package manager, npm, installed: 
 ```shell
 npm install -g runpm
 ``` 
 
-##Getting Started
+
+#Getting Started
+
 
 Register a folder where a specific project directory you want :
 ```shell
@@ -31,7 +35,9 @@ If you want to remove a registered link :
 ```
 
 
-##License
+#License
+
+
 MIT 
 
 
