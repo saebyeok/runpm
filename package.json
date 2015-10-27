@@ -1,0 +1,20 @@
+{
+  "name": "runpm",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "bin": {
+    "runpm": "bin/runpm.js"
+  },
+  "main": "./lib/index.js",
+  "keywords": [
+    "re-use",
+    "npm"
+  ],
+  "preferGlobal": "true",
+  "author": "Saebyeok Lee",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "nedb": "^1.2.1"
+  }
+}
